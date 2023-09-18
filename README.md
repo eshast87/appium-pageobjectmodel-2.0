@@ -36,3 +36,6 @@ Framework implements below best practices
 - Integrated with Extent Reporting framework (supports parallel, screenshots, logging test steps)
 
 #AppiumTutorials #PageObjectModel #TestNG
+
+# Video for Demo
+https://drive.google.com/drive/my-drive
